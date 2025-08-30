@@ -1,4 +1,4 @@
-# Hi, I’m <Your Name> ✨
+# Hi, I’m Kushal MR
 Full‑stack developer building AI‑assisted web and mobile apps. Shipping startups and practice projects in public, with a focus on modern frontend, Python/AI, pragmatic backends, and simple deployment.
 
 ---
