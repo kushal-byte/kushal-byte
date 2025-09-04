@@ -1,85 +1,104 @@
-Hi, I’m Kushal MR
-🚀 Full‑stack developer building AI‑assisted web and mobile apps. Shipping startups and practice projects in public, with a focus on modern frontend, Python/AI, pragmatic backends, and simple deployment.
+<h1>
+  Hi, I’m Kushal MR<br><h1>
+<h2>🚀 Full‑stack developer building AI‑assisted web and mobile apps. Shipping startups and practice projects in public, with a focus on modern frontend, Python/AI, pragmatic backends, and simple deployment. </h2>
 
-🌐 Skillset
-**Web Development**
-**Frontend:**
-HTML, CSS
-JavaScript
-React.js
-Next.js
-Tailwind CSS
+<h2>🌐 Skillset</h2>
+<h3> Web Development </h3>
+
+<br><br>**Frontend:**
+<br>HTML, CSS<br>
+JavaScript<br>
+React.js<br>
+Next.js<br>
+Tailwind CSS<br>
 
 **Backend:**
-Django
-FastAPI
-Flask
+<br>Django<br>
+FastAPI<br>
+Flask<br>
 
 **Databases:**
-PostgreSQL
+<br>PostgreSQL<br>
 MySQL
+
 **Backend Services:**
-Supabase
+<br>Supabase<br>
 Firebase
 
 
-**Python**
+<h3>  Matered Programming Language </h3>
+<br>
+<h4>Python</h4>
 
 **Hosting / Deployment**
-Vercel
-Play Store
-App Store
-Azure
-Netlify
-Render
+<br>
+Vercel<br>
+Play Store<br>
+App Store<br>
+Azure<br>
+Netlify<br>
+Render<br>
 
 **Version Control**
-Git & GitHub
+<br>
+Git & GitHub<br>
 
 **🛠 Practice Projects**
-Animated Website with React + GSAP | Responsive + Deployment Guide
+<br>
+Animated Website with React + GSAP | Responsive + Deployment Guide<br>
 
 **Vibe coding in mobile dev:**
-Flutter
-rork.ai
-Replit
+<br>
+Flutter<br>
+rork.ai<br>
+Replit<br>
 
 **🚧 Projects**
-Portfolio Website — frontend + email integration
-Influencer‑Marketing Website — Supabase backend
-FITXGEN App — React Native + backend (MERN style) + AI integration
-Jala Associates — Supabase + email integration
+<br>
+Portfolio Website — frontend + email integration<br>
+Influencer‑Marketing Website — Supabase backend<br>
+FITXGEN App — React Native + backend (MERN style) + AI integration<br>
+Jala Associates — Supabase + email integration<br>
 
 **📚 After AI‑Python‑CS50**
-Three Python AI Projects for Beginners
-Build an AI Agent from Scratch in Python
-Advanced AI Agent — LangGraph, Bright Data, search techniques
+<br>
+Three Python AI Projects for Beginners<br>
+Build an AI Agent from Scratch in Python<br>
+Advanced AI Agent — LangGraph, Bright Data, search techniques<br>
 Ultimate Project:
-PARKEEZ — end‑to‑end “all‑tech skills” full‑stack build
+PARKEEZ — end‑to‑end “all‑tech skills” full‑stack build<br>
 
-**📜 Certificates**
+<h1>📜 Certificates</h1>
+<br>
 
-<img width="225" height="225" alt="image" src="" />CS50’s Introduction to Artificial Intelligence with Python
-AWS Cloud Practitioner Essentials
-Integrate Generative AI into Your Data Workflow
+<img width="225" height="225" alt="image" src="ha.jpg" /> 
+<br><h3>CS50’s Introduction to Artificial Intelligence with Python</h3><br>
+<img width="225" height="225" alt="image" src="aaa.png" />
+<br><h3>AWS Cloud Practitioner Essentials</h3><br>
+<img width="225" height="225" alt="image" src="gggg.jpg" />
+<br><h3>Integrate Generative AI into Your Data Workflow</h3><br>
 
 **🚀 Startups (In Building Phase)**
-PARKEEZ — AI‑assisted parking solution
-FITXGEN — AI fitness coach + social feed; Flutter app with Firebase + AI
-ॐ AIAAS — AI automation company (make.com, n8n workflows)
-JALA ASSOCIATES — Interior & construction; frontend with email integration
-INTOBS.ONLINE — Influencer ↔ Business connector (Lovable + Supabase)
+<br>
+PARKEEZ — AI‑assisted parking solution<br>
+FITXGEN — AI fitness coach + social feed; Flutter app with Firebase + AI<br>
+ॐ AIAAS — AI automation company (make.com, n8n workflows)<br>
+JALA ASSOCIATES — Interior & construction; frontend with email integration<br>
+INTOBS.ONLINE — Influencer ↔ Business connector (Lovable + Supabase)<br>
 
 **🛣 Roadmap**
-Short term: Launch portfolio site & Jala Associates MVP; stabilize FITXGEN onboarding + AI.
-Mid term: Release PARKEEZ beta (search, book, pay, analytics); enhance influencer marketplace trust/safety.
-Long term: Productionize AI agents; establish Supabase‑first backend patterns + CI best practices.
+<br>
+Short term: Launch portfolio site & Jala Associates MVP; stabilize FITXGEN onboarding + AI.<br>
+Mid term: Release PARKEEZ beta (search, book, pay, analytics); enhance influencer marketplace trust/safety.<br>
+Long term: Productionize AI agents; establish Supabase‑first backend patterns + CI best practices.<br>
 
 **⚙️ Tech I Use**
-Frontend: React, Next.js, Tailwind CSS
-Mobile: React Native, Flutter
-Backend: Django, Node/Express, Supabase, Firebase, Appwrite
-Databases: PostgreSQL, MySQL
-Infra/Hosting: Vercel, Netlify, Render, Azure
-Tooling: Git/GitHub, Replit, rork.ai
+<br>
+Frontend: React, Next.js, Tailwind CSS<br>
+Mobile: React Native, Flutter<br>
+Backend: Django, Node/Express, Supabase, Firebase<br>
+Databases: PostgreSQL, MySQL<br>
+Infra/Hosting: Vercel, Netlify, Render, Azure<br>
+Tooling: Git/GitHub, Replit, rork.ai<br>
+Design: Stitch<br>
 
