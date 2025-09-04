@@ -64,9 +64,11 @@ Full‑stack developer building AI‑assisted web and mobile apps. Shipping star
 ---
 
 ## Certificates
-- CS50’s Introduction to Artificial Intelligence with Python — ✅ Completed
+- CS50’s Introduction to Artificial Intelligence with Python
+ 
 - AWS Cloud Practitioner Essentials — ✅ Completed
-- Integrate Generative AI Into Your Data Workflow — ✅ Completed
+- Integrate Generative AI Into Your Data Workflow
+ ![image alt](https://github.com/kushal-byte/kushal-byte/blob/main/google.jpg?raw=true)
 
 ---
 
