@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I’m Kushal MR 👋</h1>
+<h1 align="left">Hi, I’m Kushal MR 👋</h1>
 
-<p align="center">
+<p align="left">
 🚀 <em>Full‑stack developer passionate about building AI‑assisted web and mobile apps.</em><br>
 I ship startups and practice projects in public with a focus on:<br>
 <strong>Modern frontend · Python/AI · Pragmatic backends · Simple deployment</strong>
