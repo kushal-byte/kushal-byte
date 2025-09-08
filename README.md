@@ -1,102 +1,35 @@
-<h1 align="left">Hi, I’m Kushal MR 👋</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Kushal mr
+==================================================================================================================================
+
+DEV | AI/ML | CLOUD
+-------------------
+
+🚀 Full‑stack developer passionate about building AI‑assisted web and mobile apps.
+
+I ship startups and practice projects in public with a focus on:
+
+Modern frontend · Python/AI · Pragmatic backends · Simple deployment
+
+* 🌍  I'm based in Bangalore, Karnataka, India
+* ✉️  You can contact me at [kushalmr2006@gmail.com](mailto:kushalmr2006@gmail.com)
+* 🧠  I'm currently learning Gen AI into Your Data Workflow | AWS Cloud Practitioner Essential | CS50’s Introduction to Artificial Intelligence with Python | Microsoft Certified: Power BI Data Analyst
+* 👥  I'm looking to collaborate on WEB DEV , APP DEV , DATA ANALYSIS , AI/ML PROJECTS BASIC/LEARNER
 
 <p align="left">
-🚀 <em>Full‑stack developer passionate about building AI‑assisted web and mobile apps.</em><br>
-I ship startups and practice projects in public with a focus on:<br>
-<strong>Modern frontend · Python/AI · Pragmatic backends · Simple deployment</strong>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 
-<hr>
+### Socials
 
-<h2>🌐 Skillset</h2>
+<p align="left"> <a href="https://www.github.com/Kushal-byte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Kushal-byte" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Kushal-byte?logo=github&style=for-the-badge&color=ffffff&labelColor=27272a" /></a>
+### Badges
 
-<h3>🌎 Web Development</h3>
-<ul>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS</li>
-  <li><b>Backend:</b>Python (Django)</li>
-  <li><b>Databases:</b> PostgreSQL, MySQL</li>
-  <li><b>Backend Services:</b> Supabase, Firebase</li>
-</ul>
+<b>My GitHub Stats</b>
 
-<h3>💻 Programming Languages</h3>
-<ul>
-  <li>Python</li>
-  <li> C++</li>
-  <li>C</li>
-</ul>
+<a href="http://www.github.com/Kushal-byte"><img src="https://github-readme-stats.vercel.app/api?username=Kushal-byte&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="Kushal-byte's GitHub stats" /></a>
 
-<h3>⚡ Hosting / Deployment</h3>
-<ul>
-  <li>Vercel · Netlify · Render · Azure</li>
-  <li>Play Store · App Store</li>
-</ul>
+<a href="http://www.github.com/Kushal-byte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal-byte&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<h3>🔧 Version Control</h3>
-<ul>
-  <li>Git & GitHub</li>
-</ul>
-
-<h3>📱 Mobile Development</h3>
-<ul>
-  <li>React Native (code)</li>
-  <li>Flutter (low/no‑code in FlutterFlow)</li>
-  <li>rork.ai · Replit · Bolt.diy · Lovable.dev</li>
-</ul>
-
-<hr>
-
-<h2>🚧 Projects</h2>
-<ul>
-  <li><b>Portfolio Website</b> — frontend + email integration</li>
-  <li><b>Influencer Marketing Platform</b> — Supabase backend, business ↔ creator connections</li>
-  <li><b>FITXGEN</b> — AI fitness coach + social feed (React Native + backend + AI)</li>
-  <li><b>Jala Associates</b> — interior & construction site (frontend + email integration)</li>
-</ul>
-
-<hr>
-
-📜 Certificates<br><br>
-<img width="225" height="225" alt="image" src="ha.jpg" /> 
-<br><h3>CS50’s Introduction to Artificial Intelligence with Python - in progress</h3><br>  
-<img width="225" height="225" alt="image" src="aaa.png" />
-<br><h3>AWS Cloud Practitioner Essentials - in progress</h3><br>
-<img width="225" height="225" alt="image" src="gggg.jpg" />
-<br><h3>Integrate Generative AI into Your Data Workflow - in progress</h3><br>
-
-<h2>🚀 Startups (In Building Phase)</h2>
-<ul>
-  <li><b>PARKEEZ</b> — AI‑assisted parking solution</li>
-  <li><b>FITXGEN</b> — AI fitness coach + social feed (Flutter + Firebase + AI)</li>
-  <li><b>ॐ AIAAS</b> — AI automation company (Make.com, n8n workflows)</li>
-  <li><b>JALA ASSOCIATES</b> — Interior & construction brand (frontend + email integration)</li>
-  <li><b>INTOBS.ONLINE</b> — Influencer ↔ Business connector (Lovable + Supabase)</li>
-</ul>
-
-<hr>
-
-<h2>🛣 Roadmap</h2>
-<ul>
-  <li><b>Short term:</b> Launch portfolio site & Jala Associates MVP; stabilize FITXGEN onboarding + AI.</li>
-  <li><b>Mid term:</b> Release PARKEEZ beta (search, booking, payments, analytics); improve influencer marketplace trust/safety.</li>
-  <li><b>Long term:</b> Productionize AI agents; establish Supabase‑first backend patterns + CI/CD best practices.</li>
-</ul>
-
-<hr>
-
-<h2>⚙️ Tech I Use</h2>
-<ul>
-  <li><b>Frontend:</b> React.js · Next.js · Tailwind CSS</li>
-  <li><b>Mobile:</b> React Native · FlutterFlow</li>
-  <li><b>Backend:</b> Django · Supabase · Firebase</li>
-  <li><b>Databases:</b> PostgreSQL · MySQL</li>
-  <li><b>Infra/Hosting:</b> Vercel · Netlify · Render · Azure</li>
-  <li><b>Tooling:</b> Git/GitHub · Docker</li>
-  <li><b>Design:</b> Figma · Stitch</li>
-</ul>
-
-<hr>
-
-<p align="center">
-✨ Always learning, building, and shipping in public. <br>
-📬 Reach out for collaboration or just to talk tech!
-</p>
+<a href="https://github.com/Kushal-byte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-byte&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
