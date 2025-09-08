@@ -12,6 +12,7 @@ Modern frontend · Python/AI · Pragmatic backends · Simple deployment
 
 * 🌍  I'm based in Bangalore, Karnataka, India
 * ✉️  You can contact me at [kushalmr2006@gmail.com](mailto:kushalmr2006@gmail.com)
+*  🖥️  See my portfolio at [My Portfolio](http://kushalmr.netlify.app)
 * 🧠  I'm currently learning Gen AI into Your Data Workflow | AWS Cloud Practitioner Essential | CS50’s Introduction to Artificial Intelligence with Python | Microsoft Certified: Power BI Data Analyst
 * 👥  I'm looking to collaborate on WEB DEV , APP DEV , DATA ANALYSIS , AI/ML PROJECTS BASIC/LEARNER
 
