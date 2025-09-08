@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 DEV | AI/ML | CLOUD
 -------------------
-
+ PROTFOLIO WEB: kushalmr.netlify.app
 🚀 Full‑stack developer passionate about building AI‑assisted web and mobile apps.
 
 I ship startups and practice projects in public with a focus on:
